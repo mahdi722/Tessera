@@ -1,2 +1,2 @@
 # Tessera
-My Lego builder
+My Lego builder. I will use C nad C++ + RL + VLA to build my lego builder
